@@ -1,6 +1,7 @@
-layout: page
-title: "PAGE-TITLE"
-permalink: /URL-PATH
+---
+layout: post
+title: "I made a search engine and messed up"
+date: 2026-06-06
+---
 
-
-hello
+so
